@@ -11,3 +11,4 @@ annoy
 torch
 torchvision
 scikit-learn
+jupyterlab
